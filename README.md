@@ -2,7 +2,7 @@
 
 ## About the Project
 ### 🔗 Live Interactive Dashboard
-[View Live Tableau Public Dashboard](https://public.tableau.com/authoring/F1RaceIntelligenceDashboardAnalysis/Dashboard1#2)
+[View Live Tableau Public Dashboard](https://public.tableau.com/views/F1RaceIntelligenceDashboardAnalysis/Dashboard1)
 This project explores Formula 1 race data from 2010 to 2026 using Tableau Public. The goal was to analyze race results, driver performance, constructor standings, tyre strategies, and mechanical failures through interactive dashboards.
 
 The project uses an Excel dataset containing five related tables and more than 6,400 race result records. I organized the data in Tableau using relationships between the tables and created dashboards to explore different aspects of Formula 1.
